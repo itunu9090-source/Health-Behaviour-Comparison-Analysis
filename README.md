@@ -9,3 +9,18 @@ This data analysis project aims to provide insights into the health behaviour co
 ### Data Source
 The primary dataset used for this analysis is the "Health Behaviour dataset.csv" file, containing detailed information about health status causes made by the hospital.
    -[Download Here](https://drive.google.com/file/d/1KugpLVABQXg-kddNau5JOzMEbq2nsKzv/view?usp=drive_link)
+
+### Tools
+- Excel - For data cleaning
+       -[Download here](https://drive.google.com/file/d/1KugpLVABQXg-kddNau5JOzMEbq2nsKzv/view?usp=drive_link)
+- SQL - For data analysis in conjuction with excel
+- Excel - For reports creating
+
+  ### Data Cleaning/Preparation
+1. At the initial phase of data preparation phase, we performed the following:
+2. Data loading and inspection
+3. Data cleaning and formatting.
+
+### Explanatory Data Analysis
+EDA exploring the health behaviour data to answer key questions:
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/4719af33-2f1a-4588-baae-6db6d4b3d7a0" />
